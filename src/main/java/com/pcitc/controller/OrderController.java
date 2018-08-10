@@ -22,12 +22,10 @@ public class OrderController {
         return "showOrder" ;
     }
 
-
-
     @RequestMapping("universe")
     @ResponseBody
     public String aa(){
-        return "aa";
+        return "aaa";
     }
 
 }

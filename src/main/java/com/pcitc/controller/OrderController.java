@@ -13,7 +13,7 @@ public class OrderController {
     @RequestMapping("universe")
     @ResponseBody
     public String aa(){
-        return "aaa";
+        return "aa";
     }
 
 }
